@@ -1,0 +1,79 @@
+/*
+
+Xilinx Vivado v2020.1 (64-bit) [Major: 2020, Minor: 1]
+SW Build: 2902540 on Wed May 27 19:54:49 MDT 2020
+IP Build: 2902112 on Wed May 27 22:43:36 MDT 2020
+
+Process ID (PID): 23240
+License: Customer
+
+Current time: 	Sun Nov 22 02:50:30 ICT 2020
+Time zone: 	Indochina Time (Asia/Bangkok)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+
+Java version: 	9.0.4 64-bit
+Java home: 	D:/xilinx/Vivado/2020.1/tps/win64/jre9.0.4
+Java executable location: 	D:/xilinx/Vivado/2020.1/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	user
+User home directory: C:/Users/user
+User working directory: D:/university work/Year2/cpe223/final project/BruhV.1/morseV.1
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: D:/xilinx/Vivado
+HDI_APPROOT: D:/xilinx/Vivado/2020.1
+RDI_DATADIR: D:/xilinx/Vivado/2020.1/data
+RDI_BINDIR: D:/xilinx/Vivado/2020.1/bin
+
+Vivado preferences file location: C:/Users/user/AppData/Roaming/Xilinx/Vivado/2020.1/vivado.xml
+Vivado preferences directory: C:/Users/user/AppData/Roaming/Xilinx/Vivado/2020.1/
+Vivado layouts directory: C:/Users/user/AppData/Roaming/Xilinx/Vivado/2020.1/data/layouts
+PlanAhead jar file location: 	D:/xilinx/Vivado/2020.1/lib/classes/planAhead.jar
+Vivado log file location: 	D:/university work/Year2/cpe223/final project/BruhV.1/morseV.1/vivado.log
+Vivado journal file location: 	D:/university work/Year2/cpe223/final project/BruhV.1/morseV.1/vivado.jou
+Engine tmp dir: 	D:/university work/Year2/cpe223/final project/BruhV.1/morseV.1/.Xil/Vivado-23240-DESKTOP-OA4UJNG
+
+Xilinx Environment Variables
+----------------------------
+XILINX: D:/xilinx/Vivado/2020.1/ids_lite/ISE
+XILINX_DSP: D:/xilinx/Vivado/2020.1/ids_lite/ISE
+XILINX_PLANAHEAD: D:/xilinx/Vivado/2020.1
+XILINX_VIVADO: D:/xilinx/Vivado/2020.1
+XILINX_VIVADO_HLS: D:/xilinx/Vivado/2020.1
+
+
+GUI allocated memory:	141 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,006 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// WARNING: HEventQueue.dispatchEvent() is taking  2231 ms.
+// TclEventType: PROJECT_OPEN_DIALOG
+// WARNING: HEventQueue.dispatchEvent() is taking  1062 ms.
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cs):  Open Project : addNotify
+// Opening Vivado Project: D:\university work\Year2\cpe223\final project\BruhV.1\morseV.1\morse.xpr. Version: Vivado v2020.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// HMemoryUtils.trashcanNow. Engine heap size: 1,006 MB. GUI used memory: 53 MB. Current time: 11/22/20, 2:50:32 AM ICT
+selectButton(RDIResource.ProgressDialog_CANCEL, "Cancel"); // a (bz)
+selectButton("OptionPane.button", "Yes"); // JButton (v, B)

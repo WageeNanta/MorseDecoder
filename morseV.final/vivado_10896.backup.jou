@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Nov 20 18:23:41 2020
+# Process ID: 10896
+# Current directory: C:/Users/user/Desktop/morse
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9172 C:\Users\user\Desktop\morse\morse.xpr
+# Log file: C:/Users/user/Desktop/morse/vivado.log
+# Journal file: C:/Users/user/Desktop/morse\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/user/Desktop/morse/morse.xpr
+update_compile_order -fileset sources_1
